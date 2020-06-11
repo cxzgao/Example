@@ -1,0 +1,34 @@
+{
+  "admin_001": {
+             "url":"http://t-chat-api.zaomeijia.cn/manage/admin/add",
+             "admin_id":0,
+             "username":"yinhaha",
+             "admin_name":"尹哈哈测试",
+             "password": "123456",
+             "admin_status": 1,
+             "status_code": 200},
+  "admin_002": {
+             "url":"http://t-chat-api.zaomeijia.cn/manage/admin/add",
+             "admin_id":0,
+             "username":"yinhaha1",
+             "admin_name":"尹哈哈测试",
+             "password": "1234",
+             "admin_status": 1,
+             "status_code": 200},
+  "admin_003": {
+             "url":"http://t-chat-api.zaomeijia.cn/manage/admin/add",
+             "admin_id":23,
+             "username":"gaogao",
+             "admin_name":"gaogao",
+             "password": "123456",
+             "admin_status": 0,
+             "status_code": 200},
+  "admin_004": {
+             "url":"http://t-chat-api.zaomeijia.cn/manage/admin/add",
+             "admin_id":23,
+             "username":"gaogao",
+             "admin_name":"gaogao",
+             "password": "12345678",
+             "admin_status": 0,
+             "status_code": 200}
+}

@@ -1,0 +1,13 @@
+{
+  "adminlist_001": {
+             "url":"http://t-chat-api.zaomeijia.cn/manage/admin/list",
+             "page":1,
+             "limit":10,
+             "is_realname":1,
+             "user_status":0,
+             "start_time":"2020-04-30 08:00:00",
+             "end_time":"2020-05-30 08:00:00",
+             "order_field":"",
+             "order_by":"desc",
+             "key":""}
+}

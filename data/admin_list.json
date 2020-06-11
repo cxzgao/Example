@@ -1,0 +1,14 @@
+{
+  "adminlist_001": {
+             "url":"http://t-chat-api.zaomeijia.cn/manage/admin/list",
+             "page":2,
+             "limit":10,
+             "key": "",
+             "status_code": 200},
+  "adminlist_002": {
+             "url":"http://t-chat-api.zaomeijia.cn/manage/admin/list",
+             "page":1,
+             "limit":10,
+             "key": "测试gaogao",
+             "status_code": 200}
+}

@@ -1,0 +1,10 @@
+{
+  "red_001": {
+             "url":"http://t-chat-api.zaomeijia.cn/app/red/packet/create",
+             "amount":30000,
+             "number":1,
+             "pay_password":"111111",
+             "receiver_id":0,
+             "red_packet_type":1,
+             "title":"测试私聊红包金额超出限制"}
+}
